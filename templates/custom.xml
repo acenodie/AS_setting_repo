@@ -1,0 +1,10 @@
+<templateSet group="custom">
+  <template name="doc" value="/**&#10; *$desc$&#10; *@author acenodie&#10; *create at $date$ $time$&#10; **/" description="方法注释" toReformat="false" toShortenFQNames="true">
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
