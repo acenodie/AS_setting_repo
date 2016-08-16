@@ -22,6 +22,10 @@
           <option name="url" value="https://github.com/mstorsjo/android-decodeencodetest.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/saki4510t/AudioVideoRecordingSample.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\Android\Github" />
