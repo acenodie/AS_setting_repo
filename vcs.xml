@@ -34,6 +34,10 @@
           <option name="url" value="https://github.com/icylord/CameraPreview.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/OnlyInAmerica/HWEncoderExperiments.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\Android\Github" />
