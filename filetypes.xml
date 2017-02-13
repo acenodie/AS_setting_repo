@@ -1,9 +1,11 @@
 <application>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="mk" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
+      <removed_mapping ext="a" type="UNKNOWN" />
       <removed_mapping ext="so" type="UNKNOWN" />
+      <mapping ext="a" type="YouTrack" />
     </extensionMap>
   </component>
 </application>
