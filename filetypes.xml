@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="mk" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
+      <mapping ext="exe" type="PLAIN_TEXT" />
       <removed_mapping ext="a" type="UNKNOWN" />
       <removed_mapping ext="so" type="UNKNOWN" />
       <mapping ext="a" type="YouTrack" />
