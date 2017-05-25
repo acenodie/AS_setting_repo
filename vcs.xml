@@ -54,6 +54,10 @@
           <option name="url" value="git@github.com:orhanobut/logger.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:Jhuster/AudioDemo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\Android\Github" />
