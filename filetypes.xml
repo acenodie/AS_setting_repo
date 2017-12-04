@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="ttf" approved="true" type="Font" />
       <mapping ext="so" type="Native" />
       <mapping pattern="megviifacepp_0_4_6_model" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
@@ -10,7 +9,6 @@
       <mapping ext="flv" type="PLAIN_TEXT" />
       <mapping ext="exe" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
-      <mapping ext="ttf" type="PLAIN_TEXT" />
       <removed_mapping ext="a" type="UNKNOWN" />
       <removed_mapping ext="so" type="UNKNOWN" />
     </extensionMap>
