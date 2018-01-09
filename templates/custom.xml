@@ -9,4 +9,10 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
+  <template name="cmt" value="/**&#10; * &#10; * @param $param$&#10; */" description="方法注释模板" toReformat="false" toShortenFQNames="true">
+    <variable name="param" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
 </templateSet>
