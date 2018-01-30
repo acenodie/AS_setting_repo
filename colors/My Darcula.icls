@@ -1,9 +1,10 @@
 <scheme name="My Darcula" version="142" parent_scheme="Darcula">
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Courier New" />
   <option name="CONSOLE_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Courier New" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <attributes>
     <option name="LOGCAT_ASSERT_OUTPUT">
       <value>
