@@ -5,6 +5,7 @@
       <mapping pattern="megviifacepp_0_4_6_model" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="mk" type="PLAIN_TEXT" />
+      <mapping ext="atxt" type="PLAIN_TEXT" />
       <mapping ext="aar" type="PLAIN_TEXT" />
       <mapping ext="flv" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
