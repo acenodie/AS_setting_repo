@@ -8,9 +8,10 @@
       <mapping ext="atxt" type="PLAIN_TEXT" />
       <mapping ext="aar" type="PLAIN_TEXT" />
       <mapping ext="flv" type="PLAIN_TEXT" />
+      <mapping ext="jce" type="PLAIN_TEXT" />
+      <mapping ext="exe" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="utxt" type="PLAIN_TEXT" />
-      <mapping ext="exe" type="PLAIN_TEXT" />
       <removed_mapping ext="a" type="UNKNOWN" />
       <removed_mapping ext="so" type="UNKNOWN" />
     </extensionMap>
