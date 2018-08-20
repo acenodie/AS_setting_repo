@@ -1,8 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="mp4" type="Native" />
-      <mapping pattern="configure" type="PLAIN_TEXT" />
+      <mapping ext="aar" type="ARCHIVE" />
+      <mapping pattern="IWSVideoView" type="CLASS" />
+      <mapping ext="jce" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
