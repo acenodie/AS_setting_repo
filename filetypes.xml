@@ -1,8 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="mp4" type="Native" />
-      <mapping pattern="configure" type="PLAIN_TEXT" />
+      <mapping pattern="key_3" type="PLAIN_TEXT" />
+      <mapping ext="so" type="PLAIN_TEXT" />
+      <mapping ext="jce" type="PLAIN_TEXT" />
+      <removed_mapping ext="so" type="UNKNOWN" />
     </extensionMap>
   </component>
 </application>

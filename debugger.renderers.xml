@@ -1,8 +1,14 @@
 <application>
   <component name="NodeRendererSettings">
+    <Renderer ID="ArrayRenderer">
+      <option name="NAME" value="unnamed" />
+      <option name="ENABLED" value="true" />
+      <option name="START_INDEX" value="0" />
+      <option name="END_INDEX" value="99" />
+      <option name="ENTRIES_LIMIT" value="99" />
+    </Renderer>
     <Renderer ID="ToStringRenderer">
       <option name="NAME" value="unnamed" />
-      <option name="ENABLED" value="false" />
     </Renderer>
     <Renderer ID="ClassRenderer">
       <option name="NAME" value="unnamed" />
@@ -20,5 +26,19 @@
       <option name="NAME" value="Primitive" />
       <option name="SHOW_HEX_VALUE" value="false" />
     </Renderer>
+    <CustomRenderers VERSION="8">
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="java.lang.String" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="java.lang.String" />
+        <Renderer ID="EnumerationChildrenRenderer" role="children">
+          <option name="QUALIFIED_NAME" value="java.lang.String" />
+          <option name="AppendDefault" value="true" />
+          <ChildrenExpression Name="">
+            <TextWithImports text="((VideoRecommendInfo) data).mCellBottomRecomm.actionurl&#13;com.qzone.commoncode.module.videorecommend.model.VideoRecommendInfo&#13;JAVA" type="expression" />
+          </ChildrenExpression>
+        </Renderer>
+      </Renderer>
+    </CustomRenderers>
   </component>
 </application>
