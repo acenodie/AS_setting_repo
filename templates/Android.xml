@@ -1,8 +1,0 @@
-<templateSet group="Android">
-  <template name="cmt" value="/**&#10; * 〈一句话功能简述〉&#10; * 〈功能详细描述〉&#10; * @param [参数1]     [参数1说明]&#10; * @param [参数2]     [参数2说明]&#10; * @return  [返回类型说明]&#10; * @exception/throws [违例类型] [违例说明]&#10; * @see          [类、类#方法、类#成员]&#10; */&#10; " description="Template text是注释的模板" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_CODE" value="true" />
-      <option name="KOTLIN" value="true" />
-    </context>
-  </template>
-</templateSet>
