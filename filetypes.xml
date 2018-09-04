@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="mp4" type="Native" />
       <mapping pattern="configure" type="PLAIN_TEXT" />
+      <mapping ext="mk" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
