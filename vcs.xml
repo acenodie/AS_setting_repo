@@ -6,6 +6,10 @@
           <option name="url" value="http://git.code.oa.com/xinweishi/WeChat.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://sh-svn.tencent.com/LifeIsLikeAPlay/LifeIsLikeAPlay_Android_proj/branches/weishi_and_5.0_wechat_demo" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/code/acenodie" />
