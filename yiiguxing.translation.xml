@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="degradation" />
+      <item value="overall" />
+      <item value="The larger file is the slower its editor works" />
+      <item value="kilobytes" />
+      <item value="Maximum file size (kilobytes) IDE should provide code assistance for." />
       <item value="explicitly" />
       <item value="implicit" />
       <item value="never" />
@@ -29,8 +34,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="23" />
+        <entry key="CHINESE" value="27" />
+        <entry key="ENGLISH" value="28" />
       </map>
     </option>
   </component>
