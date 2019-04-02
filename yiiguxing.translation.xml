@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Wallet" />
       <item value="Provider" />
       <item value="Anchor" />
       <item value="This method will be invoked when a new page becomes selected. Animation is not  necessarily complete." />
@@ -47,7 +48,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="ENGLISH" value="37" />
       </map>
     </option>
   </component>
