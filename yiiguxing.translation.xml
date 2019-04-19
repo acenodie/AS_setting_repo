@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mechanism" />
       <item value=" in the form of a six-byte MAC address" />
       <item value="Wallet" />
       <item value="Provider" />
@@ -49,7 +50,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="37" />
+        <entry key="ENGLISH" value="38" />
       </map>
     </option>
   </component>
