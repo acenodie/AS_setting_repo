@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MODEL" />
       <item value="anchor" />
       <item value="moderately" />
       <item value="the process is not an expendable * background process, but the device is running moderately low on memory." />
@@ -50,12 +51,11 @@
       <item value="slave" />
       <item value="drift" />
       <item value="touch exploration" />
-      <item value="exploration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="44" />
+        <entry key="CHINESE" value="44" />
+        <entry key="ENGLISH" value="45" />
       </map>
     </option>
   </component>
