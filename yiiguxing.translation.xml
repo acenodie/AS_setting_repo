@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Strategy" />
       <item value="MODEL" />
       <item value="anchor" />
       <item value="moderately" />
@@ -17,7 +18,6 @@
       <item value="settling" />
       <item value="优化" />
       <item value="Override" />
-      <item value="Strategy" />
       <item value="Hole" />
       <item value="Open Hole" />
       <item value="Lookup" />
