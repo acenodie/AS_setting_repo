@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="binder" />
+      <item value="recipient" />
       <item value="Strategy" />
       <item value="MODEL" />
       <item value="anchor" />
@@ -49,13 +51,11 @@
       <item value="obsolete" />
       <item value="periods" />
       <item value="slave" />
-      <item value="drift" />
-      <item value="touch exploration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="CHINESE" value="45" />
+        <entry key="ENGLISH" value="46" />
       </map>
     </option>
   </component>
