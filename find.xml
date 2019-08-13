@@ -6,7 +6,6 @@
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
-    <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -14,5 +13,6 @@
     <mask>*.gradle</mask>
     <mask>*.java</mask>
     <mask>*.c</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
