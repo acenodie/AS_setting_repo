@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Negative" />
       <item value="binder" />
       <item value="recipient" />
       <item value="Strategy" />
@@ -50,7 +51,6 @@
       <item value="CONTINUITY" />
       <item value="obsolete" />
       <item value="periods" />
-      <item value="slave" />
     </histories>
     <option name="languageScores">
       <map>
