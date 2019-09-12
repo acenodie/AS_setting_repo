@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="drift" />
       <item value="Let's assume the audio driver that is used by SDL has two periods." />
       <item value="Check if onboarding has already been completed and then navigate the user accordingly" />
       <item value="ONBOARDING" />
@@ -50,12 +51,11 @@
       <item value="exclusive" />
       <item value="inclusive" />
       <item value="splice" />
-      <item value="trim" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="55" />
-        <entry key="ENGLISH" value="56" />
+        <entry key="CHINESE" value="56" />
+        <entry key="ENGLISH" value="57" />
       </map>
     </option>
   </component>
