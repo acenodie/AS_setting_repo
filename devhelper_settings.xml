@@ -1,0 +1,5 @@
+<application>
+  <component name="DevhelperSettingStore" DevhelperUsername="zebzhang" DevhelperToken="3/k2AhB/arSvPrjGNS13GQ==" isLocalCrOn="true" isTapdBugOn="true" isTapdStoryOn="true" isCodeDogOn="true" isWbMrReviewOn="true" isWbCrOn="true" />
+  <component name="RDHelperGerritSettings" AutomaticRefresh="true" RefreshTimeout="5" ReviewNotifications="true" FilterConditions="all_all_all" LAST_AUTO_CREATE_CR_REQUEST_TIME_1="0" />
+  <component name="TapdSettingStore" UseLongId="false" />
+</application>
