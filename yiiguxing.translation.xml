@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="THRESHOLD" />
       <item value="Composition" />
       <item value="minus" />
       <item value="drift" />
@@ -50,12 +51,11 @@
       <item value="scale" />
       <item value="比例" />
       <item value="Invalid" />
-      <item value="exclusive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="58" />
-        <entry key="ENGLISH" value="59" />
+        <entry key="CHINESE" value="59" />
+        <entry key="ENGLISH" value="60" />
       </map>
     </option>
   </component>
