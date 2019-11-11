@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Used to indicate a transient loss of audio focus." />
       <item value="THRESHOLD" />
       <item value="Composition" />
       <item value="minus" />
@@ -50,12 +51,11 @@
       <item value="never" />
       <item value="scale" />
       <item value="比例" />
-      <item value="Invalid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="CHINESE" value="60" />
+        <entry key="ENGLISH" value="61" />
       </map>
     </option>
   </component>
