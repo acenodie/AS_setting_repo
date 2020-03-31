@@ -4,6 +4,8 @@
       <mapping ext="mp4" type="Native" />
       <mapping pattern="key_3" type="PLAIN_TEXT" />
       <mapping pattern="configure" type="PLAIN_TEXT" />
+      <mapping pattern="gray_vertex_shader" type="PLAIN_TEXT" />
+      <mapping ext="glsl" type="PLAIN_TEXT" />
       <mapping ext="mk" type="PLAIN_TEXT" />
       <mapping ext="jce" type="PLAIN_TEXT" />
       <mapping ext="logcat" type="PLAIN_TEXT" />
