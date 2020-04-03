@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="saturation" />
       <item value="siblings" />
       <item value="HttpComponent httpComponent = getHttpComponent(); httpComponent.get(url, new HttpResponse() { @Override public void onResponse(int code, JSONObject jsonObject) { assertEquals(code, 0); } });" />
       <item value="assure" />
@@ -50,12 +51,11 @@
       <item value="span" />
       <item value="degradation" />
       <item value="overall" />
-      <item value="The larger file is the slower its editor works" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="65" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="CHINESE" value="66" />
+        <entry key="ENGLISH" value="67" />
         <entry key="SLOVENIAN" value="1" />
       </map>
     </option>
