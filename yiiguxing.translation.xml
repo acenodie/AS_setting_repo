@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This takes a mask, and blurs its edge by the specified radius. Whether or * or not to include the original mask, and whether the blur goes outside, * inside, or straddles, the original mask's border, is controlled by the * Blur enum." />
+      <item value="Blur" />
       <item value="tint" />
       <item value="and then shifting the result up by * &lt;code&gt;255&lt;/code&gt; to remain in the standard color space." />
       <item value="The sample ColorMatrix below inverts incoming colors by scaling each * channel by" />
@@ -49,13 +51,11 @@
       <item value="优化" />
       <item value="Override" />
       <item value="Hole" />
-      <item value="Open Hole" />
-      <item value="Lookup" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="70" />
-        <entry key="ENGLISH" value="71" />
+        <entry key="CHINESE" value="72" />
+        <entry key="ENGLISH" value="73" />
         <entry key="SLOVENIAN" value="1" />
       </map>
     </option>
