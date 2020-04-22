@@ -1,5 +1,6 @@
 <application>
-  <component name="DevhelperSettingStore" DevhelperUsername="zebzhang" DevhelperToken="3/k2AhB/arSvPrjGNS13GQ==" isLocalCrOn="true" isTapdBugOn="true" isTapdStoryOn="true" isCodeDogOn="true" isWbMrReviewOn="true" isWbCrOn="true" />
+  <component name="DevhelperSettingStore" DevhelperUsername="zebzhang" DevhelperToken="3/k2AhB/arSvPrjGNS13GQ==" isLocalCrOn="true" isTapdBugOn="true" isTapdStoryOn="true" isCodeDogOn="true" isWbMrReviewOn="true" isWbCrOn="true" isRdm4On="false" isQtaOn="false" isBkOn="false" isTapdTaskOn="false" isUnitTestOn="false" isStpOn="false" isCasOn="false" isGitTagOn="false" ProxyEnable="false" ProxyHost="" ProxyPort="0" highPixel="false" fontSizeMultiple="0" />
+  <component name="QtaSettingStore" QtaPrivateToken="" qtahost="http://devnet.api.qta.oa.com" />
   <component name="RDHelperGerritSettings" AutomaticRefresh="true" RefreshTimeout="5" ReviewNotifications="true" FilterConditions="all_all_all" LAST_AUTO_CREATE_CR_REQUEST_TIME_1="0" />
-  <component name="TapdSettingStore" UseLongId="false" />
+  <component name="TapdSettingStore" UseLongId="false" ShowGitBranch="false" />
 </application>

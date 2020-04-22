@@ -1,3 +1,3 @@
 <application>
-  <component name="DevHelperCodeDogSettingStore" CodeDogScriptPath="" CodeDogOutputPath="" />
+  <component name="DevHelperCodeDogSettingStore" CodeDogScriptPath="$USER_HOME$/code/codedog" CodeDogOutputPath="$USER_HOME$/code/codedog/output" />
 </application>
