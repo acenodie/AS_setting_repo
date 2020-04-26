@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="used for AV difference average computation" />
+      <item value="computation" />
+      <item value="average" />
+      <item value="Clip a signed integer value into the amin-amax range." />
       <item value="Shader is the based class for objects that return horizontal spans of colors * during drawing. A subclass of Shader is installed in a Paint calling * paint.setShader(shader). After that any object (other than a bitmap) that is * drawn with that paint will get its color(s) from the shader." />
       <item value="PathEffect is the base class for objects in the Paint that affect * the geometry of a drawing primitive before it is transformed by the * canvas' matrix and drawn." />
       <item value="This takes a mask, and blurs its edge by the specified radius. Whether or * or not to include the original mask, and whether the blur goes outside, * inside, or straddles, the original mask's border, is controlled by the * Blur enum." />
@@ -47,15 +51,11 @@
       <item value=" in the form of a six-byte MAC address" />
       <item value="Wallet" />
       <item value="Provider" />
-      <item value="Anchor" />
-      <item value="This method will be invoked when a new page becomes selected. Animation is not  necessarily complete." />
-      <item value="settling" />
-      <item value="优化" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="74" />
-        <entry key="ENGLISH" value="75" />
+        <entry key="CHINESE" value="78" />
+        <entry key="ENGLISH" value="79" />
         <entry key="SLOVENIAN" value="1" />
       </map>
     </option>
