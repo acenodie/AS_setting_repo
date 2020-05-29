@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="resolution" />
       <item value="parenthesis" />
       <item value="The default order of execution of JUnit tests within a class is deterministic but not predictable. * The order of execution is not guaranteed for Java 7 (and some previous versions), and can even change * from run to run, so the order of execution was changed to be deterministic (in JUnit 4.11)" />
       <item value="Prepare Statistics" />
@@ -50,12 +51,11 @@
       <item value="expendable" />
       <item value="if not in the Executing state, * or codec is configured in asynchronous mode." />
       <item value="Notch" />
-      <item value="mechanism" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="CHINESE" value="81" />
+        <entry key="ENGLISH" value="82" />
         <entry key="SLOVENIAN" value="1" />
       </map>
     </option>
