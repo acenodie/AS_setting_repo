@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Snap Helper" />
+      <item value="snapping" />
       <item value="intercept Player Error" />
       <item value="stalling" />
       <item value="infinite" />
@@ -49,13 +51,11 @@
       <item value="Strategy" />
       <item value="MODEL" />
       <item value="anchor" />
-      <item value="moderately" />
-      <item value="the process is not an expendable * background process, but the device is running moderately low on memory." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="84" />
-        <entry key="ENGLISH" value="85" />
+        <entry key="CHINESE" value="86" />
+        <entry key="ENGLISH" value="87" />
         <entry key="SLOVENIAN" value="1" />
       </map>
     </option>
