@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="webp" type="Image" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="mp4" type="Native" />
       <mapping pattern="key_3" type="PLAIN_TEXT" />
       <mapping pattern="configure" type="PLAIN_TEXT" />
