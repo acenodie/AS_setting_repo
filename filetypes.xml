@@ -11,6 +11,7 @@
       <mapping ext="mk" type="PLAIN_TEXT" />
       <mapping ext="jce" type="PLAIN_TEXT" />
       <mapping ext="logcat" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
